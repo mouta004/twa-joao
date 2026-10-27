@@ -1,0 +1,15 @@
+{
+  "name": "twa-ficha01",
+  "version": "1.0.0",
+  "description": "TWA Ficha 01 - ambiente e primeiros módulos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "api": "node api.js",
+    "rss": "node rss.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
